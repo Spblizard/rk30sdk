@@ -1,0 +1,17 @@
+key 102   HOME
+key 114   VOLUME_DOWN
+key 115   VOLUME_UP
+key 116   POWER             WAKE
+key 143   NOTIFICATION      WAKE
+key 158   BACK
+key 212   CAMERA
+key 217   SEARCH
+key 139   MENU
+key	31    SELECT	
+key	28    START
+
+key 103    UP	
+key	108    DOWN
+key	105    LEFT	
+key	106    RIGHT
+key 59    F1

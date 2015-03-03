@@ -36,11 +36,9 @@ PRODUCT_COPY_FILES += \
 	frameworks/native/data/etc/android.software.sip.xml:system/etc/permissions/android.software.sip.xml \
 	frameworks/native/data/etc/handheld_core_hardware.xml:system/etc/permissions/handheld_core_hardware.xml \
 	frameworks/native/data/etc/android.hardware.telephony.gsm.xml:system/etc/permissions/android.hardware.telephony.gsm.xml
-$(call inherit-product-if-exists, vendor/rolsen/rk30sdk/rk30sdk.mk
-$(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
+$(call inherit-product-if-exists, vendor/rolsen/rk30sdk/rk30sdk.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
-$(call inherit-product, device/common/gps/gps_us_supl.mk)
-
+$(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
 PRODUCT_NAME := rk30sdk
 PRODUCT_DEVICE := rk30sdk
 PRODUCT_BRAND := rolsen

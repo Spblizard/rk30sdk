@@ -38,8 +38,8 @@ PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/system/usr/keylayout/Vendor_05ac_Product_0239.kl:system/usr/keylayout/Vendor_05ac_Product_0239.kl \
 	$(LOCAL_PATH)/system/usr/keylayout/Vendor_22b8_Product_093d.kl:system/usr/keylayout/Vendor_22b8_Product_093d.kl \
 	$(LOCAL_PATH)/system/usr/keylayout/Vendor_045e_Product_028e.kl:system/usr/keylayout/Vendor_045e_Product_028e.kl \
-	$(LOCAL_PATH)/system/usr/keylayout/Vendor_046d_product_c216.kl:system/usr/keylayout/Vendor_046d_Product_c216.kl \
-	$(LOCAL_PATH)/system/usr/keylayout/Vendor_046d_Product_c294.kl:system/usr/keylayout/Vendor_046d_product_c294.kl \
-	$(LOCAL_PATH)/system/usr/keylayout/Vendor_046d_priduct_c299.kl:system/usr/keylayout/Vendor_046d_product_c299.kl \
+	$(LOCAL_PATH)/system/usr/keylayout/Vendor_046d_Product_c216.kl:system/usr/keylayout/Vendor_046d_Product_c216.kl \
+	$(LOCAL_PATH)/system/usr/keylayout/Vendor_046d_Product_c294.kl:system/usr/keylayout/Vendor_046d_Product_c294.kl \
+	$(LOCAL_PATH)/system/usr/keylayout/Vendor_046d_Product_c299.kl:system/usr/keylayout/Vendor_046d_Product_c299.kl \
 	$(LOCAL_PATH)/system/usr/keylayout/Vendor_046d_Product_c532.kl:system/usr/keylayout/Vendor_046d_Product_c532.kl \
-	$(LOCAL_PATH)/system/usr/keylayout/Vendor_054c_Product_0268.kl:system/usr/keylayout/Vendor_054c_product_0268.kl
+	$(LOCAL_PATH)/system/usr/keylayout/Vendor_054c_Product_0268.kl:system/usr/keylayout/Vendor_054c_Product_0268.kl

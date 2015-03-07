@@ -4,7 +4,6 @@ PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/system/bin/wpa_supplicant:system/bin/wpa_supplicant \
 	$(LOCAL_PATH)/system/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
 	$(LOCAL_PATH)/system/etc/vold.fstab:system/etc/vold.fstab \
-	$(LOCAL_PATH)/system/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
 	$(LOCAL_PATH)/system/lib/egl/libEGL_mali.so:system/lib/egl/libEGL_mali.so \
 	$(LOCAL_PATH)/system/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
 	$(LOCAL_PATH)/system/lib/egl/libGLESv1_CM_mali.so:system/lib/egl/libGLESv1_CM_mali.so \

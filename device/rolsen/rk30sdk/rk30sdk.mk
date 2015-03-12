@@ -40,8 +40,9 @@ PRODUCT_COPY_FILES += \
 $(call inherit-product-if-exists, vendor/rolsen/rk30sdk/rk30sdk.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
+$(call inherit-product, $(SRC_TARGET_DIR)/product/full.mk)
 PRODUCT_NAME := rk30sdk
 PRODUCT_DEVICE := rk30sdk
-PRODUCT_BRAND := rolsen
-PRODUCT_MANUFACTURER := rolsen
+PRODUCT_BRAND := rockchip
+PRODUCT_MANUFACTURER := rockchip
 PRODUCT_MODEL := Rolsen RTB7.4Q GAME
